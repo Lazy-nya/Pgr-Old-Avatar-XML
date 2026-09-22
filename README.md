@@ -8,10 +8,10 @@ Phigros 2.0.0 以前商店头像的 XML 数值。
 
 使用root或虚拟机环境。
 1. 虚拟机开启 root。
-2. 使用 `Shizuku` 在 root 下运行。
+2. 使用Shizuku在 root 下运行。
 3. 授权给 MT 管理器。
-4. 打开路径”/data/user/0/com.PigeonGames.Phigros/shared_prefs/com.PigeonGames.Phigros.v2.playerprefs.xml”
-5. 在“com.PigeonGames.Phigros.v2.playerprefs.xml”填写头像xlm值，
+4. 打开路径'/data/user/0/com.PigeonGames.Phigros/shared_prefs/com.PigeonGames.Phigros.v2.playerprefs.xml”
+5. 在“com.PigeonGames.Phigros.v2.playerprefs.xml'填写头像xlm值，
 6. 保存后，移动或删除mt管理器备份的文件即可
 
 ##免责声明
