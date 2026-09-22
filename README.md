@@ -55,7 +55,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ## 4. FULi AUTO SHOOTER extra1-by cycats
 
-![FULi AUTO SHOOTER extra1-by cycats](avatars/FULi-AUTO-SHOOTER-extra1-by-cycats.png)
+![FULi AUTO SHOOTER extra1-by cycats](avatars/FULi-AUTO-SHOOTER-extra-1-by-cucats.png)
 
 ```xml
 <string name="1So2ylZIyUekC2MIv2zaV7jyUQYuf%2FFWXdyenhrt0rV0yGR2hsEZBz3VM%2FYbIoEaKvdVOANtjmULV3dvascdVPsTPqa7AhCEd86oq4g9BeR0Gx5YbiXRAQ%3D%3D">xq9bX8oShzg%3D</string>
