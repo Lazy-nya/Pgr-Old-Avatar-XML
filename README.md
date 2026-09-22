@@ -213,9 +213,9 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ---
 
-## 20. Burm
+## 20. Burn
 
-![Burm](avatars/Burm.png)
+![Burn](avatars/Burn.png)
 
 ```xml
 <string name="1So2ylZIyUfGh8GJ9Gfi8JVZSzk9C0qmu2iyyaeDPnQ%3D">xq9bX8oShzg%3D</string>
