@@ -222,10 +222,37 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 ```xml
 <string name="1So2ylZIyUfGh8GJ9Gfi8JVZSzk9C0qmu2iyyaeDPnQ%3D">xq9bX8oShzg%3D</string>
 ```
+## 22. Gino-AprilFool
+
+avatars/Gino-AprilFool.png
+
+```xml
+<string name="b8UKKnNidrS6zp9eA6cRlKvm8%2F0u5rt2bWkU1oB8ss8%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
 
 ---
 
-## 21. Glaciaxion
+## 23. Oblivion:PHIN
+
+avatars/Oblivion-PHIN.png
+
+```xml
+<string name="p0PsZStllosA%2FOuKCiZISoEOoNFkzxN4Nurdg4YWExw%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 24. 鸠-AprilFool
+
+avatars/鸠-AprilFool.png
+
+```xml
+<string name="F%2BWxa1d3PylrBRCLIEyKORIPowSaM8oka51LnCmf3Ng%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 25. Glaciaxion
 
 ![Glaciaxion](avatars/Glaciaxion.png)
 
