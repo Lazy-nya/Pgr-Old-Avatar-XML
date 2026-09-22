@@ -55,7 +55,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ## 4. FULi AUTO SHOOTER extra1-by cycats
 
-![FULi AUTO SHOOTER extra1-by cycats](avatars/FULi-AUTO-SHOOTER-extra1-by-cycats.png)
+![FULi AUTO SHOOTER extra1-by cycats](avatars/FULi-AUTO-SHOOTER-extra-1-by-cycats.png)
 
 ```xml
 <string name="1So2ylZIyUekC2MIv2zaV7jyUQYuf%2FFWXdyenhrt0rV0yGR2hsEZBz3VM%2FYbIoEaKvdVOANtjmULV3dvascdVPsTPqa7AhCEd86oq4g9BeR0Gx5YbiXRAQ%3D%3D">xq9bX8oShzg%3D</string>
@@ -65,7 +65,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ## 5. Non-Melodic Ragez extra 1-by cycats
 
-![Non-Melodic Ragez extra 1-by cycats](avatars/Non-Melodic-Ragez-extra1-by-cycats.png)
+![Non-Melodic Ragez extra 1-by cycats](avatars/Non-Melodic-Ragez-extra-1-by-cycats.png)
 
 ```xml
 <string name="1So2ylZIyUfjMztXoUK0uetrYxJKDx8in5fkJ8uMXE8wrPcmFpeMAtyPJISEyanxHvR7RgDpCbWkZfSV0oz0uOD316ZTPBHoX3T2wbd%2FVXf2P5Ks92jC8A%3D%3D">xq9bX8oShzg%3D</string>
@@ -75,7 +75,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ## 6. RIPPER extra 1-by cycats
 
-![RIPPER extra 1-by cycats](avatars/RIPPER-extra1-by-cycats.png)
+![RIPPER extra 1-by cycats](avatars/RIPPER-extra-1-by-cycats.png)
 
 ```xml
 <string name="1So2ylZIyUe%2B5oDIVwKlDb5wAov9IErvje3iilRqUCuVY%2FD5n7%2FYqvz27RWqKbilTsqxdURV23yriAh9YGq%2FsA%3D%3D">xq9bX8oShzg%3D</string>
@@ -85,7 +85,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ## 7. RIPPER extra 2-by 何呵
 
-![RIPPER extra 2-by 何呵](avatars/RIPPER-extra2-by-何呵.png)
+![RIPPER extra 2-by 何呵](avatars/RIPPER-extra-2-by-何呵.png)
 
 ```xml
 <string name="1So2ylZIyUe%2B5oDIVwKlDb5wAov9IErvje3iilRqUCsfeOF1yW47ETFmm%2B6TmNzh7yw6a5DOCe0%3D">xq9bX8oShzg%3D</string>
