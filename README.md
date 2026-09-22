@@ -93,7 +93,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ---
 
-## 8. Geopelia 3-by cycats
+## 8. Geopelia 3-by 何呵
 
 ![Geopelia 3-by cycats](avatars/Geopelia-3-by-何呵.png)
 
