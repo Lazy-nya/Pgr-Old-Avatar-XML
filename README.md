@@ -25,7 +25,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ## 1. Geopelia 1-by cycats
 
-![Geopelia 1-by cycats](avatars/Geopelia-1-by-cycats.png)
+![Geopelia 1-by cycats](avatars/Geopelia 1 by cycats.png)
 
 ```xml
 <string name="1So2ylZIyUcCo97%2FyQod3jTu7NhxaRjtyfwEaq1LsEmU9tSmQDM4TmBQbsJ6x4fF0Inzui7OWnc%3D">xq9bX8oShzg%3D</string>
