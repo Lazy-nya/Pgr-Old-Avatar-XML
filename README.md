@@ -165,7 +165,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ## 15. Marenol extra 1-by 喵n葵
 
-![Marenol extra 1-by 喵n葵](avatars/Marenol-extra1-by-喵n葵.png)
+![Marenol extra 1-by 喵n葵](avatars/Marenol-extra-1-by-喵n葵.png)
 
 ```xml
 <string name="1So2ylZIyUdgLKyL3fWbE8HVv0RXhbUd82OZ7CwABGtQehFk9EiDnvU83btvG08pjdQ%2BZyR9yhM%3D">xq9bX8oShzg%3D</string>
@@ -175,7 +175,7 @@ Phigros 2.0.0 以前商店头像的 XML 数值与头像图片备份。
 
 ## 16. 云女孩extra 1-by 御坂果子
 
-![云女孩extra 1-by 御坂果子](avatars/云女孩extra1-by-御坂果子.png)
+![云女孩extra 1-by 御坂果子](avatars/云女孩extra-1-by-御坂果子.png)
 
 ```xml
 <string name="1So2ylZIyUdZwjhf6VOPwdzZuXGDNB3hkMW4Eh2bibBiDvBo3NAFYhyZk9Ak%2BSb2qWwu2JYXe6o%3D">xq9bX8oShzg%3D</string>
