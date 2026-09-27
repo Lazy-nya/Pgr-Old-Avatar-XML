@@ -264,7 +264,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 ## 25. 2019weplay
 
-![2019weplay](avatars/Glaciaxion.png)
+![2019weplay](avatars/2019weplay.png)
 
 ```xml
 <string name="4mIcEevygkF9%2F9WIeTdXDegRFvK5ggQb%2F3p2lAtvqKV5MA25ie43aBOA9kHp4Mux">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
