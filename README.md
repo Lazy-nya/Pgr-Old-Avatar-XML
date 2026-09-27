@@ -222,7 +222,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 ```xml
 <string name="1So2ylZIyUfGh8GJ9Gfi8JVZSzk9C0qmu2iyyaeDPnQ%3D">xq9bX8oShzg%3D</string>
 ```
-## 22. Gino-AprilFool
+## 21. Gino-AprilFool
 
 ![GiNo-AprilFool](avatars/Gino-AprilFool.png)
 
@@ -232,7 +232,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 ---
 
-## 23. Oblivion:PHIN
+## 22. Oblivion:PHIN
 
 ![Oblivion:PHIN](avatars/Oblivion-PHIN.png)
 
@@ -242,7 +242,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 ---
 
-## 24. 鸠-AprilFool
+## 23. 鸠-AprilFool
 
 ![鸠-ApriFool](avatars/鸠-AprilFool.png)
 
@@ -252,7 +252,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 ---
 
-## 25. Glaciaxion
+## 24. Glaciaxion
 
 ![Glaciaxion](avatars/Glaciaxion.png)
 
