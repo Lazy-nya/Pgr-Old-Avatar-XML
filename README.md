@@ -283,7 +283,7 @@ MT管理器 https://mt.cc/
 
 ## 25. Eradication Catastrophe
 
-![Eradication Catastrophe]("avatars\Eradication Catastrophe.png")
+![Eradication Catastrophe](avatars\Eradication-Catastrophe.png)
 
 ```xml
 <string name="lWdeLtx1UO1xi2f2H3v1FJVOfSqbSVzh16gR2hipHmw%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
