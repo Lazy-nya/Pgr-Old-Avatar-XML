@@ -29,7 +29,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 [shizuku](https://shizuku.rikka.app/zh-hans/)
 
-[MT管理器](https://mt.cc/download/）
+MT管理器 https://mt.cc/
 
 [TapTap](https://www.taptap.cn/)
 
