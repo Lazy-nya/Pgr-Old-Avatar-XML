@@ -30,7 +30,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 [shizuku](https://shizuku.rikka.app/zh-hans/)
 
-[MT管理器]( https://mt.cc/)
+[MT管理器](https://mt.cc/)
 
 [TapTap](https://www.taptap.cn/)
 
@@ -298,6 +298,336 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 ```xml
 <string name="mhQ%2B%2FmIG7pwuAyVgqQy6AA%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 27.Dlyrotz
+
+![Dlyrotz](avatars\Dlyrotz.png)
+
+```xml
+<string name="V2k8AIhqLSH10h8dhORmlQ%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 28.Engine x Start!! (melody
+
+![Engine x Start!! (melody](avatars\Engine-x-Start!!-melody.png)
+
+```xml
+<string name="hzCw2MLldAfJzH1U7RRVWdXp9S%2B2lDl1DbhHBKFFwX6TEbOHOgx9uDPzvc8SqaJn">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 29.光
+
+![光](avatars\光.png)
+
+```xml
+<string name="cndeOELSbeDWKyCe9s4gvA%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 30.Winter ↑tcubel↓
+
+![Winter ↑tcubel↓](avatars\Winter-↑tcubel↓.png)
+
+```xml
+<string name="dtGfvgElRcAEecXkiV3DPCmGqwC2OQagVMhUzcUgdxU%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 31.Cipher:/2 //<|0
+
+![Cipher:/2 //<|0](avatars\Cipher.png)
+
+```xml
+<string name="HDFZTHe97p2ruWH99rzsM84lt8HERQLZ6BtWjZtjyv0%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 32.混乱-Confusion
+
+![混乱-Confusion](avatars\混乱-Confusion.png)
+
+```xml
+<string name="oVuyYylCkmpSkM%2ByYMACtqrILykPz4oDHbCnDSPHwPg%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 33.FULi AUTO SHOOTER
+
+![FULi AUTO SHOOTER](avatars\FULi-AUTO-SHOOTER.png)
+
+```xml
+<string name="N3Xbj8Iv3R9S%2B4LuQHeGiFMLOxtSuL5M%2FUhwjVsxWQk%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 34.HumaN
+
+![HumaN](avatars\HumaN.png)
+
+```xml
+<string name="QKqI3e%2Feaw9qt%2BNdWqVvZw%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 35.PRAW
+
+![PRAW](avatars\[PRAW].png)
+
+```xml
+<string name="Tpla6ZFyR53OMg1SzGmg0g%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 36.Pixel Rebelz1
+
+![Pixel Rebelz1](avatars\Pixel-Rebelz1.png)
+
+```xml
+<string name="l%2Bvuv%2F2FUqkNcPV4qWWqISTuDC5F7cZYE2d8%2FyR84fA%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 37.Pixel Rebelz2
+
+![Pixel Rebelz2](avatars\Pixel-Rebelz2.png)
+
+```xml
+<string name="l%2Bvuv%2F2FUqkNcPV4qWWqITHVjNODPe7n2UwFwoK5Uf0%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 38.Pixel Rebelz3
+
+![Pixel Rebelz3](avatars\Pixel-Rebelz3.png)
+
+```xml
+<string name="l%2Bvuv%2F2FUqkNcPV4qWWqIehWb6D6v29JgVyxu9%2FoFYE%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 39.Cereris1
+
+![Cereris1](avatars\Cereris1.png)
+
+```xml
+<string name="LkMstmA1BqQzj8KhKd1y8A%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 40.Cereris2
+
+![Cereris2](avatars\Cereris2.png)
+
+```xml
+<string name="b2ZH6%2FrQfLVa%2BHnFwgdeSw%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 41.Cereris3
+
+![Cereris3](avatars\Cereris3.png)
+
+```xml
+<string name="uJWpCEdywG6zOOR%2BhhH3lw%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 42.Non-Melodic Ragez (MUGEdit)
+
+![Non-Melodic Ragez （MUGEdit）](avatars\Non-Melodic-Ragez-MUGEdit.png)
+
+```xml
+<string name="BP1UQBwiiVbO0JgcDReykhKbl34q7k8qtVN5pwDAVTCOIxsJl%2B6dP1cDzHU8jICh">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 43.Sultan Rage
+
+![Sultan Rage](avatars\Sultan-Rage.png)
+
+```xml
+<string name="ZTyCYxg9wZ5iiQEuQG%2FbAA%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 44.Class Memories
+
+![Class Memories](avatars\Class-Memories.png)
+
+```xml
+<string name="Xx2LB0ua8U0955220xs45IyVOklsKHP18pkMcrPGGq8%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 45.-SURREALISM-
+
+![-SURREALISM-](avatars\-SURREALISM-.png)
+
+```xml
+<string name="PNpLCS%2FzLJIVTvHRCuK18ukvqwORyjeVAdk87%2BIyfs8%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 46.Bonus Time
+
+![Bonus Time](avatars\Bonus-Time.png)
+
+```xml
+<string name="6CzAb1AmMniYgtGV3Wy5TQ%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 47.Energy Synergy Matrix1
+
+![Energy Synergy Matrix1](avatars\Energy-Synergy-Matrix1.png)
+
+```xml
+<string name="xSbEsXIXwadtYjJjrmphz5ExoxuesATzAQlY1Yt4UhI%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 48.Energy Synergy Matrix2
+
+![Energy Synergy Matrix2](avatars\Energy-Synergy-Matrix2.png)
+
+```xml
+<string name="xSbEsXIXwadtYjJjrmphz33AI0Ee61ngqVmCc3%2FrmPs%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 49.Energy Synergy Matrix3
+
+![Energy Synergy Matrix3](avatars\Energy-Synergy-Matrix3.png)
+
+```xml
+<string name="xSbEsXIXwadtYjJjrmphz8ZC2guyaw6QoSiHRyfVVGw%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 50.Doppelganger1
+
+![Dopplganger1](avatars\Doppelganger1.png)
+
+```xml
+<string name="MjMx51hYVVa6L9w2ESLnQCx%2B0sirKOaYpMNOEFOmFuE%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 51.Doppelganger2
+
+![Dopplganger2](avatars\Doppelganger2.png)
+
+```xml
+<string name="MjMx51hYVVa6L9w2ESLnQKNfOPthf2N1YWBksWyza58%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 52.もペもペ1
+
+![もペもペ1](avatars\もペもペ1.png)
+
+```xml
+<string name="BkuaKknvKdLW7mzILK2jLpARpIN5pfXAN6NLHvF3iQ8%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 53.もペもペ2
+
+![もペもペ2](avatars\もペもペ2.png)
+
+```xml
+<string name="BkuaKknvKdLW7mzILK2jLvy%2BHLiSZ7sFaF92kiDNfbg%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 54.MARENOL
+
+![MARENOL](avatars\MARENOL.png)
+
+```xml
+<string name="In5zD0tBUbpm8TWeD5FnWg%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 55.萤火虫の怨1
+
+![萤火虫の怨1](avatars\萤火虫の怨1.png)
+
+```xml
+<string name="ON5vOG0zm4CFdA6bTmjAgP7%2FFbco3vTtuaGoj4Rpav4%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 56.萤火虫の怨2
+
+![萤火虫の怨2](avatars\萤火虫の怨2.png)
+
+```xml
+<string name="ON5vOG0zm4CFdA6bTmjAgLRgUjUmvJGrY7iahl28qss%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 57.万吨匿名信
+
+![万吨匿名信](avatars\万吨匿名信.png)
+
+```xml
+<string name="Ztd6wFz73WPali3c5Gi6at0I2UDVlyFvCxKzKPkVhGs%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 58.Aphasia
+
+![Aphasia](avatars\Aphasia.png)
+
+```xml
+<string name="1ZDT94FYcQQIvkgYrzvzPQ%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 59.華灯爱1
+
+![華灯爱1](avatars\華灯爱1.png)
+
+```xml
+<string name="xMLZAi7veIDpvWgIDwIxyQ%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
 ```
 
 ---
@@ -651,6 +981,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 ```
 
 ---
+
 ## 免责声明
 
 本仓库仅用于对 Phigros 已有头像/曲绘获取与技术交流，**!!请勿!!**用于商业用途或破坏游戏公平性。本仓库不涉及更改分数、RKS、暴力解析存档等行为。请自行承担使用 root、虚拟机、文件修改等操作带来的风险。若发现他人侵权行为或页面出现bug 请联系[我的 B 站主页](https://space.bilibili.com/626182490)/[另一个共同创作者的 B 站主页](https://space.bilibili.com/1029180669)，我们会尽快处理。
