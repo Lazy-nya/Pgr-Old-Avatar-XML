@@ -293,10 +293,361 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 ---
 
 ## 26.Credits
+
 ![Credits](avatars\Credits.png)
 
 ```xml
 <string name="mhQ%2B%2FmIG7pwuAyVgqQy6AA%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 60.華灯爱2
+
+![華灯爱2](avatars\華灯爱2.png)
+
+```xml
+<string name="sv2ShQyafcVAZIMYH%2BkCFg%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 61.dB doll
+
+![dB doll](avatars\dB-doll.png)
+
+```xml
+<string name="m8ORQj0dQWuu0Cg7duXHLw%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 62.Dash
+
+![Dash](avatars\Dash.png)
+
+```xml
+<string name="TnCmHYi22IMGAMJ1GG9CKA%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 63.Drop It
+
+![Drop It](avatars\Drop-It.png)
+
+```xml
+<string name="ne5XfJvhCqWdtGp1DwLoEQ%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 64.开心病1
+
+![开心病1](avatars\开心病1.png)
+
+```xml
+<string name="x8WmIS%2FIyL0ieYFY51ZPew%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 65.开心病2
+
+![开心病2](avatars\开心病2.png)
+
+```xml
+<string name="k%2FCaXJdRclwB6PdGu1d%2BZQ%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 66.Feast远东之宴1
+
+![Feast远东之宴1](avatars\Feast远东之宴1.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1QwUw4ki7XV1Hfr4xRnCOrU%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 67.Feast远东之宴2
+
+![Feast远东之宴2](avatars\Feast远东之宴2.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1W%2BQuDswGMbblkxp0Scgb6w%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 68.Feast远东之宴3
+
+![Feast远东之宴3](avatars\Feast远东之宴3.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1SvyDmmhggIU7owlNSd1qys%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 69.Feast远东之宴4
+
+![Feast远东之宴4](avatars\Feast远东之宴4.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1cZMAtvhRyukmFzAb9nrtqA%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 70.Feast远东之宴5
+
+![Feast远东之宴5](avatars\Feast远东之宴5.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1ZNCcUvXdwtlUVS0S4IvkzI%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 71.Feast远东之宴6
+
+![Feast远东之宴6](avatars\Feast远东之宴6.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1X8ZekmlzMABl4N%2FdJf%2Baj8%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 72.Feast远东之宴7
+
+![Feast远东之宴7](avatars\Feast远东之宴7.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1d367yLUI6WsUA%2FQV%2Fp900k%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 73.Feast远东之宴9
+
+![Feast远东之宴9](avatars\Feast远东之宴9.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1cwKQjrFP94G6og%2F9UUsNb8%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 74.瓷岁1
+
+![瓷岁1](avatars\瓷岁1.png)
+
+```xml
+<string name="gA3A1pW9g1OfhKZ8JZlq3g%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 75.瓷岁2
+
+![瓷岁2](avatars\瓷岁2.png)
+
+```xml
+<string name="ygK6QEnIMaE6xk7WZSHitg%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 76.瓷岁4
+
+![瓷岁4](avatars\瓷歲4.png)
+
+```xml
+<string name="t%2BFY2E6R2IQpwv%2F8Kx8eCw%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 77.瓷岁6
+
+![瓷岁6](avatars\瓷歲6.png)
+
+```xml
+<string name="novEm4jKbx9FUrsuGT4e2A%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 78.瓷岁7
+
+![瓷岁7](avatars\瓷歲7.png)
+
+```xml
+<string name="8by9Hj1Gq%2Bdc%2F7cASPnPQg%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 79.盞茗2
+
+![盞茗2](avatars\盞茗2.png)
+
+```xml
+<string name="yZjGlo1quHXOvyS02yNE8g%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 80.盞茗3
+
+![盞茗3](avatars\盞茗3.png)
+
+```xml
+<string name="SqqRq57uZ0knMPt5TPsW9g%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 81.Feast远东之宴-Special1
+
+![Feast远东之宴-Special1](avatars\Feast远东之宴-Special1.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1bLYp9QTyj%2F5I%2BGwcMJ6F%2FU%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 82.Feast远东之宴-Special1
+
+![Feast远东之宴-Special2](avatars\Feast远东之宴-Special2.png)
+
+```xml
+<string name="V%2FUfVdXuMrRS12dNmdP%2F1XVviLI%2Fk02fiOSP58C0Nhk%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 83.Artificial Existence
+
+![Artificial Existence](avatars\Artificial-Existence.png)
+
+```xml
+<string name="dKL4vf7Y33TLhT%2FwaXGEmhjkqtZ4yVs84St7iq5F4i8%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 84.Para
+
+![Para](avatars\Para.png)
+
+```xml
+<string name="d18uYDQ0rzOHk7A%2BdAkZCg%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 85.Indelible Scar
+
+![Indelible Scar](avatars\Indelible-Scar.png)
+
+```xml
+<string name="PAiJDfYyVJxq0Qp26y5dCZ%2FI5Bi5Dl9fxK3NiUai2UA%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 86.Alkaid
+
+![Alkaid](avatars\Alkaid.png)
+
+```xml
+<string name="q%2BP%2FbDZiVx2XEbM4lWginw%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 87.ShineAfter-鸠-普通
+
+![ShineAfter-鸠-普通](avatars\ShineAfter-鸠-普通.png)
+
+```xml
+<string name="N%2BcL96S37fLehqD3Q9I0%2BofuzcP2N5pZDbtB4kFzBLw%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 88.ShineAfter-鸠-Special
+
+![ShineAfter-鸠-Special](avatars\ShineAfter-鸠-Special.png)
+
+```xml
+<string name="N%2BcL96S37fLehqD3Q9I0%2BnXYpRi9gs60EybtTmoyOrc%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 89.ShineAfter-水青-普通
+
+![ShineAfter-水青-普通](avatars\ShineAfter-水青-普通.png)
+
+```xml
+<string name="ppWD47QTHWGWLKAFCEY7IcS46ixehJz%2BsL88OK9l9EE%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 90.ShineAfter-水青-Special1
+
+![ShineAfter-水青-Special1](avatars\ShineAfter-水青-Special1.png)
+
+```xml
+<string name="ppWD47QTHWGWLKAFCEY7IYJWWSZX2%2Bt9Zk%2BGWpoF3dQ%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 91.ShineAfter-水青-Special2
+
+![ShineAfter-水青-Special2](avatars\ShineAfter-水青-Special2.png)
+
+```xml
+<string name="ppWD47QTHWGWLKAFCEY7IS1q0MyxJRps8dU2TOb0hl0%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 92.ShineAfter-鸠和水青-Special
+
+![ShineAfter-鸠和水青-Special](avatars\ShineAfter-鸠和水青-Special.png)
+
+```xml
+<string name="N%2BcL96S37fLehqD3Q9I0%2BrdXiQzSpqZ4SQYgjbFfaYWY0%2FNQ%2FkQQsP7WBFcHsiX7">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 93.鸠-一周年相聚
+
+![鸠-一周年相聚](avatars\鸠-一周年相聚.png)
+
+```xml
+<string name="az5z8DzkR52F51PVNoQ4tbi9qeIBEYBgODZBKh231dA%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
+
+## 94.水青-—周年相聚
+
+![水青-—周年相聚](avatars\水青-—周年相聚.png)
+
+```xml
+<string name="tbQI5XmF4MxMBdRNaUYJQm%2FTOW%2FG%2B9kYNK9trXQUmwk%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
 ```
 
 ---
