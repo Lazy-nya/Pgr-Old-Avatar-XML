@@ -291,6 +291,15 @@ MT管理器 https://mt.cc/
 
 ---
 
+## 26.Credits
+![Credits](avatars\Credits.png)
+
+
+```xml
+<string name="lWdeLtx1UO1xi2f2H3v1FJVOfSqbSVzh16gR2hipHmw%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+
+---
 ## 免责声明
 
 本仓库仅用于对 Phigros 已有头像/曲绘获取与技术交流，**!!请勿!!**用于商业用途或破坏游戏公平性。本仓库不涉及更改分数、RKS、暴力解析存档等行为。请自行承担使用 root、虚拟机、文件修改等操作带来的风险。若发现他人侵权行为或页面出现bug 请联系[我的 B 站主页](https://space.bilibili.com/626182490)/[另一个共同创作者的 B 站主页](https://space.bilibili.com/1029180669)，我们会尽快处理。
