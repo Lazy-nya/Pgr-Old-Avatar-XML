@@ -294,9 +294,8 @@ MT管理器 https://mt.cc/
 ## 26.Credits
 ![Credits](avatars\Credits.png)
 
-
 ```xml
-<string name="lWdeLtx1UO1xi2f2H3v1FJVOfSqbSVzh16gR2hipHmw%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+<string name="mhQ%2B%2FmIG7pwuAyVgqQy6AA%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
 ```
 
 ---
