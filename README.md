@@ -21,6 +21,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 5. 在 `com.PigeonGames.Phigros.v2.playerprefs.xml` 里填入对应的头像 XML 值。
 6. 保存后，移动或删除 MT 管理器自动生成的备份文件即可。
+
    也可以把`com.PigeonGames.Phigros.v2.playerprefs.xml`文件属性改成只读（但目前无法确定会不会影响上传存档)
 
 ## 所需工具获取路径
@@ -29,17 +30,21 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 [shizuku](https://shizuku.rikka.app/zh-hans/)
 
-MT管理器 https://mt.cc/
+[MT管理器]( https://mt.cc/)
 
 [TapTap](https://www.taptap.cn/)
 
 [Phigros](https://m.32r.com/app/129142.html)
 
-##具体操作方法
+## 具体操作方法
 
 [视频](https://www.bilibili.com/video/BV1CeaN6TEfF/)
 
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117326141790337&bvid=BV1CeaN6TEfF&cid=42167373257&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 [视频](https://www.bilibili.com/video/BV1fnna66Etg/)
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117491749623743&bvid=BV1fnna66Etg&cid=42996273127&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
