@@ -40,11 +40,7 @@ Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像
 
 [视频](https://www.bilibili.com/video/BV1CeaN6TEfF/)
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117326141790337&bvid=BV1CeaN6TEfF&cid=42167373257&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
 [视频](https://www.bilibili.com/video/BV1fnna66Etg/)
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117491749623743&bvid=BV1fnna66Etg&cid=42996273127&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
