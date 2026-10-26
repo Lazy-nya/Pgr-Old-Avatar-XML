@@ -41,13 +41,15 @@ Phigros 曲绘的 XML 数值与曲绘图片备份。
 [视频](https://www.bilibili.com/video/BV1fnna66Etg/)
 
 ---
+
 ## 列组编写
+
 |1|2|
-|:---|:---|
+|-|-|
 |3|4|
 
 |1|
-|:---|
+|-|
 |2|
 |3|
 |4|
@@ -61,17 +63,21 @@ Phigros 曲绘的 XML 数值与曲绘图片备份。
 ```xml
 <string name="j%2B49EJxb9Mp3mX%2F8AWtZXdHq13UDtUMJF%2FZ38axbZHo%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
 ```
+
 ```xml
 <string name="JHdHjAXAEsQJEmNr3gOa2w%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
 ```
+
 ```xml
 <string name="2MgPHNXfdUAXRmVZXuXVADDqm4XH1ieBgRMz%2FTu%2BbiA%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
 ```
+
 ```xml
 <string name="xVoua7t3hnCjc79FzikfOE5PH1xwVIhW2NH%2BFGibdsg%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
 ```
 
 ---
+
 ## 免责声明
 
 本仓库仅用于对 Phigros 已有头像/曲绘获取与技术交流，**!!请勿!!**用于商业用途或破坏游戏公平性。本仓库不涉及更改分数、RKS、暴力解析存档等行为。请自行承担使用 root、虚拟机、文件修改等操作带来的风险。若发现他人侵权行为或页面出现bug 请联系[我的 B 站主页](https://space.bilibili.com/626182490)/[另一个共同创作者的 B 站主页](https://space.bilibili.com/1029180669)，我们会尽快处理。
