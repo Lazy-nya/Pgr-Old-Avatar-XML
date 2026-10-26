@@ -58,7 +58,7 @@ Phigros 曲绘的 XML 数值与曲绘图片备份。
 # 单曲
 
 ## 组一
-![组一](def)
+![组一](avatars\组一.png)
 
 ```xml
 <string name="j%2B49EJxb9Mp3mX%2F8AWtZXdHq13UDtUMJF%2FZ38axbZHo%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
