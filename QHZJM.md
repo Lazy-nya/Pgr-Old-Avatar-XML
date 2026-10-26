@@ -36,10 +36,23 @@ Phigros 曲绘的 XML 数值与曲绘图片备份。
 
 ## 具体操作方法
 
-[视频](https://www.bilibili.com/video/BV1CeaN6TEfF/)
+[视频](https://www.bilibili.com/video/BV1CeaN6TEfF/"bbbbb")
 
 [视频](https://www.bilibili.com/video/BV1fnna66Etg/)
 
+---
+## 列组编写
+|1|2|
+|:---|:---|
+|3|4|
+
+|1|
+|:---|
+|2|
+|3|
+|4|
+
+[编组1]("bbbbb")
 ---
 
 ## 组一
@@ -48,8 +61,14 @@ Phigros 曲绘的 XML 数值与曲绘图片备份。
 
 ```xml
 <string name="j%2B49EJxb9Mp3mX%2F8AWtZXdHq13UDtUMJF%2FZ38axbZHo%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+```xml
 <string name="JHdHjAXAEsQJEmNr3gOa2w%3D%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+```xml
 <string name="2MgPHNXfdUAXRmVZXuXVADDqm4XH1ieBgRMz%2FTu%2BbiA%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
+```
+```xml
 <string name="xVoua7t3hnCjc79FzikfOE5PH1xwVIhW2NH%2BFGibdsg%3D">84nt4CDG41fhF5EXHkVpow%3D%3D</string>
 ```
 
