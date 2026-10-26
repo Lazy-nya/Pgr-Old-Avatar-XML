@@ -36,7 +36,7 @@ Phigros 曲绘的 XML 数值与曲绘图片备份。
 
 ## 具体操作方法
 
-[视频](https://www.bilibili.com/video/BV1CeaN6TEfF/"bbbbb")
+[视频](https://www.bilibili.com/video/BV1CeaN6TEfF/)
 
 [视频](https://www.bilibili.com/video/BV1fnna66Etg/)
 
@@ -52,7 +52,6 @@ Phigros 曲绘的 XML 数值与曲绘图片备份。
 |3|
 |4|
 
-[编组1]("bbbbb")
 ---
 
 ## 组一
