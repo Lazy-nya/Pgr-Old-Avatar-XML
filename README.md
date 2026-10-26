@@ -1,8 +1,8 @@
 # Pgr-Old-Avatar-XML
 
-Phigros 2.0.0 以前商店头像和2026年愚人节头像的 XML 数值与头像图片备份。
+Phigros 头像的 XML 数值与头像图片备份。
 
-这些头像在当前版本中无法正常获取，仅供 root / 虚拟机环境获取与研究使用。
+这些头像在当前版本中无法正常/轻松获取，仅供 root / 虚拟机环境获取与研究使用。
 
 图片素材来源：[Phigros 全头像获取攻略 - 原启Yuanqi](https://www.bilibili.com/opus/1186626870393700370)
 
